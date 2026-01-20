@@ -1,0 +1,30 @@
+# Core Dependencies for Fake News Detection Project
+# Optimized for CPU-based training on student laptop (16GB RAM)
+
+# Deep Learning Framework
+torch>=2.2.0
+transformers>=4.30.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Explainability
+lime>=0.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Text Processing
+nltk>=3.8
+
+# Jupyter Support (for exploration)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+tqdm>=4.65.0
